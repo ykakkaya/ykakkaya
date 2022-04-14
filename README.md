@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ykakkaya
-- 👀 I’m interested in java C# QA testing Wordpress .net
+- 👀 I’m interested in java C# QA testing Wordpress .Net
 - 🌱 I’m currently learning 
 
 
