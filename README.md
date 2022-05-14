@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ykakkaya
-- 👀 I’m interested in Java,C#,HTML,CSS,Wordpress,.Net;
+- 👀 I’m interested in Java,C#,Software Test,HTML,CSS,Wordpress,.Net;
 - 🌱 I’m currently learning code writing
 
 
