@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ykakkaya
+FOLLOW ME  IN ykakkaya.com
 -  👀 I’m interested in 
 -  Java , C# , Python ,java Selenium Software Test , HTML , CSS , Wordpress , .Net 
 -  🌱 I’m currently learning code writing
