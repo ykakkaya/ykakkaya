@@ -1,6 +1,6 @@
  ## 👋 Hi, I’m @ykakkaya
  
-- ### FOLLOW ME  IN
+ ### FOLLOW ME  IN
 -   *linkedin.com/in/ykakkaya*
 -   *youtube.com/channel/UCmEfmAREBh8tS-rUXdaP0ww*
   ### 👀 I’m interested in .Net Core and Data Science with Python
