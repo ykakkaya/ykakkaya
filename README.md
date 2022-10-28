@@ -13,14 +13,9 @@
 -  _3- RFM CUSTOMER SEGMENTASION_
 -  _4- MEASUREMENT PROBLEMS_
 
-
-![p1](https://user-images.githubusercontent.com/100940437/198724328-bc7796f3-1d51-4951-bcf9-420c54d1bb88.jpg)
-![p2](https://user-images.githubusercontent.com/100940437/198724343-5654a498-0254-4e14-8f2a-778af73480fc.jpg)
-![p3](https://user-images.githubusercontent.com/100940437/198724364-3ef8e1a5-dba8-4c9f-8529-1d811a9118b3.jpg)
-
-
-
-
+![1](https://user-images.githubusercontent.com/100940437/198726362-e761d5d9-1357-4bd5-acfc-b6faebf5b1c6.jpg)
+![2 ](https://user-images.githubusercontent.com/100940437/198726417-32926a8b-d4f4-4d2d-8076-a6abac6714f8.jpg)
+![3](https://user-images.githubusercontent.com/100940437/198726440-8a8fafe2-b516-4f1b-8520-05ce691c448f.jpg)
 
 
 <!---
