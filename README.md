@@ -5,7 +5,7 @@
 -   *youtube.com/channel/UCmEfmAREBh8tS-rUXdaP0ww*
   ### 👀 I’m interested in .Net Core and Data Science with Python
 -   *Java , C# , Python ,java Selenium Software Test , HTML , CSS , Wordpress* 
- ### 🌱 I’m currently learning code writing and Data Science
+ ### 🌱 I’m currently learning .Net Core , Angular and Data Science
  ### I SOLVED some Data Science problems with **REAL INDUSTRY DATAS**.This Problems about:
 -  _1- CRM ANALITICS_
 -  _2- CUSTOMER LIFETIME VALUES PREDICTION_
