@@ -14,6 +14,15 @@
 -  _4- MEASUREMENT PROBLEMS_
 
 
+![p1](https://user-images.githubusercontent.com/100940437/198724328-bc7796f3-1d51-4951-bcf9-420c54d1bb88.jpg)
+![p2](https://user-images.githubusercontent.com/100940437/198724343-5654a498-0254-4e14-8f2a-778af73480fc.jpg)
+![p3](https://user-images.githubusercontent.com/100940437/198724364-3ef8e1a5-dba8-4c9f-8529-1d811a9118b3.jpg)
+
+
+
+
+
+
 <!---
 ykakkaya/ykakkaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
