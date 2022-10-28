@@ -1,12 +1,12 @@
-- ##👋 Hi, I’m @ykakkaya
+- ## 👋 Hi, I’m @ykakkaya
  
-- ###FOLLOW ME  IN
+- ### FOLLOW ME  IN
 -   *linkedin.com/in/ykakkaya and* 
 -   *youtube.com/channel/UCmEfmAREBh8tS-rUXdaP0ww*
--  ###👀 I’m interested in .Net Core and Data Science with Python
+-  ### 👀 I’m interested in .Net Core and Data Science with Python
 -   *Java , C# , Python ,java Selenium Software Test , HTML , CSS , Wordpress 
-- ###🌱 I’m currently learning code writing and Data Science
-- ###I SOLVED some demo problems with **REAL INDUSTRY DATAS**.This Problems about:
+- ### 🌱 I’m currently learning code writing and Data Science
+- ### I SOLVED some demo problems with **REAL INDUSTRY DATAS**.This Problems about:
 -  _1- CRM ANALITICS_
 -  _2- CUSTOMER LIFETIME VALUES PREDICTION_
 -  _3- RFM CUSTOMER SEGMENTASİON_
