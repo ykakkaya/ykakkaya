@@ -2,7 +2,7 @@
  
  ### FOLLOW ME  IN
 -   *linkedin.com/in/ykakkaya*
--   *youtube.com/channel/UCmEfmAREBh8tS-rUXdaP0ww*
+-   *youtube.com/@ykakkaya*
   ### 👀 I’m interested in .Net Core and Data Science with Python
 -   *.Net , Java , C# , Python , Java Selenium Software Test , HTML , CSS , Wordpress* 
  ### 🌱 I’m currently learning .Net Core , Angular and Data Science
