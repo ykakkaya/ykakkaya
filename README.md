@@ -11,6 +11,7 @@
 -  _2- CUSTOMER LIFETIME VALUES PREDICTION_
 -  _3- RFM CUSTOMER SEGMENTASION_
 -  _4- MEASUREMENT PROBLEMS_
+-  _5- MEACHINE LEARNING PROBLEMS_
 
 ![1](https://user-images.githubusercontent.com/100940437/198726362-e761d5d9-1357-4bd5-acfc-b6faebf5b1c6.jpg)
 ![p](https://user-images.githubusercontent.com/100940437/203528249-9be4e6f4-ec5e-414f-9101-c18a64db2cdc.jpg)
