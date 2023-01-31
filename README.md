@@ -14,7 +14,8 @@
 -  _5- MEACHINE LEARNING PROBLEMS_
 
 ![1](https://user-images.githubusercontent.com/100940437/198726362-e761d5d9-1357-4bd5-acfc-b6faebf5b1c6.jpg)
-![ff](https://user-images.githubusercontent.com/100940437/215719975-21cf9ef1-510e-4bf7-ac85-2908954e79a6.jpg)
+![ff (1)](https://user-images.githubusercontent.com/100940437/215720235-9fa75b5a-0b39-415d-ad23-ed22caa90cb4.jpg)
+
 
 
 
