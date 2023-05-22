@@ -7,7 +7,8 @@
   
   
   ![ff (2)](https://user-images.githubusercontent.com/100940437/215720691-b2e3baac-4504-4ba4-bfeb-5f6dd36024f5.jpg)
-  
+ ![ph](https://github.com/ykakkaya/ykakkaya/assets/100940437/dccf58f1-41b5-406c-be96-dddcabeb6d18)
+ 
  ### 🌱 I know this tecnologies PHP Laravel .Net , Java , C# , Python , Java Selenium Software Test , HTML , CSS , Wordpress
 
  ### I SOLVED some Data Science problems with **REAL INDUSTRY DATAS**.This Problems about:
