@@ -8,7 +8,7 @@
   
   ![ff (2)](https://user-images.githubusercontent.com/100940437/215720691-b2e3baac-4504-4ba4-bfeb-5f6dd36024f5.jpg)
   
- ### 🌱 I know this tecnologies .Net , Java , C# , Python , Java Selenium Software Test , HTML , CSS , Wordpress
+ ### 🌱 I know this tecnologies PHP Laravel .Net , Java , C# , Python , Java Selenium Software Test , HTML , CSS , Wordpress
 
  ### I SOLVED some Data Science problems with **REAL INDUSTRY DATAS**.This Problems about:
 -  _1- CRM ANALITICS_
