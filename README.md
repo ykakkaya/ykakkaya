@@ -1,22 +1,17 @@
  ## 👋 Hi, I’m @ykakkaya
  
- ### FOLLOW ME  IN
+ ### My social media channels if you want to follow me :))
 -   *linkedin.com/in/ykakkaya*
 -   *youtube.com/@ykakkaya*
-  ### 👀 I’m interested in Flutter, Flask PHP Laravel and Data Science with Python
+  ### 👀 I’m interested in Flutter, PHP , Laravel and Data Science and Python Flask
   
   
   ![ff (2)](https://user-images.githubusercontent.com/100940437/215720691-b2e3baac-4504-4ba4-bfeb-5f6dd36024f5.jpg)
  ![ph](https://github.com/ykakkaya/ykakkaya/assets/100940437/dccf58f1-41b5-406c-be96-dddcabeb6d18)
  
- ### 🌱 I know this tecnologies PHP Laravel .Net , Java , C# , Python , Java Selenium Software Test , HTML , CSS , Wordpress
+ ### 🌱 I know this tecnologies PHP , Laravel , Python ,  Wordpress , .Net , Java , C# 
 
- ### I SOLVED some Data Science problems with **REAL INDUSTRY DATAS**.This Problems about:
--  _1- CRM ANALITICS_
--  _2- CUSTOMER LIFETIME VALUES PREDICTION_
--  _3- RFM CUSTOMER SEGMENTASION_
--  _4- MEASUREMENT PROBLEMS_
--  _5- MEACHINE LEARNING PROBLEMS_
+ ### I'm soon starting flutter projects, the backend of which I write with Laravel.
 
 ![1](https://user-images.githubusercontent.com/100940437/198726362-e761d5d9-1357-4bd5-acfc-b6faebf5b1c6.jpg)
 
