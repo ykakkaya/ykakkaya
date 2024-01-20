@@ -4,16 +4,14 @@
 -   *linkedin.com/in/ykakkaya*
 -   *youtube.com/@ykakkaya*
   ### 👀 I’m interested in Flutter, PHP , Laravel and Data Science and Python Flask
-  
-  
-  ![ff (2)](https://user-images.githubusercontent.com/100940437/215720691-b2e3baac-4504-4ba4-bfeb-5f6dd36024f5.jpg)
- ![ph](https://github.com/ykakkaya/ykakkaya/assets/100940437/dccf58f1-41b5-406c-be96-dddcabeb6d18)
  
- ### 🌱 I know this tecnologies Flutter , PHP , Laravel , Python ,  Wordpress 
+ ### 🌱 I have experience in developing mobile solutions using Flutter, machine learning with Python, web programming with Laravel, and web development with WordPress
+ 
+![1](https://github.com/ykakkaya/ykakkaya/assets/100940437/0dec3f82-1df6-46cd-847b-b181bc241990)
 
 
 
-![1](https://user-images.githubusercontent.com/100940437/198726362-e761d5d9-1357-4bd5-acfc-b6faebf5b1c6.jpg)
+
 
 
 
