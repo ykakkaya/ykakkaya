@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I’m @ykakkaya<br><br>👀 I’m interested in  Laravel Flutter, PHP,Python and Wordpress <br>
+## 👋 Hi, I’m @ykakkaya<br><br>👀 I’m interested in  Laravel ,Flutter, PHP,Python and Wordpress <br>
 ## My Apps in Playstore:
 ### -> https://play.google.com/store/apps/details?id=com.ykakkaya.bebek_takip
 ### -> https://play.google.com/store/apps/details?id=com.ykakkaya.todo
