@@ -75,10 +75,6 @@ I'm a developer based in **Türkiye** who builds end-to-end products — from **
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ykakkaya&theme=github_dark">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ykakkaya&theme=github" alt="Stats" height="170"/>
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ykakkaya&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ykakkaya&theme=github" alt="Most commit language" height="170"/>
-  </picture>
 </p>
 
 <p align="center">
