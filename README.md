@@ -49,18 +49,6 @@ I'm a developer based in **Türkiye** who builds end-to-end products — from **
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| 💳 **[ykpos](https://github.com/ykakkaya/ykpos)** | Unified virtual POS integration for 38 banks & payment institutions in Türkiye — sale, 3D Secure, cancel, refund, installments | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
-| 🎓 **[ia--flutter-workshop](https://github.com/ykakkaya/ia--flutter-workshop)** | Full-stack (backend + Flutter) app built live at the İstanbul Aydın University workshop | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
-| 👶 **[bebek_takip_getx_hive](https://github.com/ykakkaya/bebek_takip_getx_hive)** | Offline baby-tracking app with local Hive storage and charts | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-8A2BE2) |
-| ⏱️ **[pomodoro](https://github.com/ykakkaya/pomodoro)** | Pomodoro focus timer | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
-| 🧩 **[ykakkaya-preloader-wordpress](https://github.com/ykakkaya/ykakkaya-preloader-wordpress)** | WordPress preloader plugin | ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) |
-
----
-
 ### 📊 GitHub Activity
 
 <p align="center">
